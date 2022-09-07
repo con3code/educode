@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T15:44:18.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="dG49RhMZ85q4DqTv9_rF" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T15:55:50.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="3TJjF_5WaaYLfR5LDnhZ" version="20.2.8" type="github">
   <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
-    <mxGraphModel dx="751" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,13 +19,13 @@
         <mxCell id="937iQ2gGSX9IhuSpnDY0-5" value="学校コード" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="937iQ2gGSX9IhuSpnDY0-13" value="クラス識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-13" value="集団識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="937iQ2gGSX9IhuSpnDY0-12" value="組" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="937iQ2gGSX9IhuSpnDY0-11" value="授業科目" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-11" value="教育活動識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
           <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="937iQ2gGSX9IhuSpnDY0-10" value="学習指導要領URI" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
@@ -44,9 +44,9 @@
           <mxGeometry y="356" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-1" value="クラス" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="160" height="266" as="geometry" />
+          <mxGeometry x="390" y="204" width="160" height="266" as="geometry" />
         </mxCell>
-        <mxCell id="OaZUWcq_WelUGl5zhzev-2" value="クラス識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-1">
+        <mxCell id="OaZUWcq_WelUGl5zhzev-2" value="集団識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-3" value="年度" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-1">
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-11" value="児童生徒主体情報" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="750" y="320" width="160" height="116" as="geometry" />
+          <mxGeometry x="810" y="300" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-12" value="児童生徒識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-11">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-43" value="採択教科書" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="910" width="180" height="160" as="geometry" />
+          <mxGeometry x="1170" y="40" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-43">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-56" value="学習指導要領LOD" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="410" y="780" width="160" height="116" as="geometry" />
+          <mxGeometry x="350" y="960" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-57" value="学習指導要領URI" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-56">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-60" value="学校" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1210" width="160" height="176" as="geometry" />
+          <mxGeometry x="50" y="110" width="160" height="176" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-61" value="学校コード" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-60">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -189,6 +189,33 @@
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-65" value="位置情報" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-60">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="937iQ2gGSX9IhuSpnDY0-5" target="OaZUWcq_WelUGl5zhzev-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="937iQ2gGSX9IhuSpnDY0-10" target="OaZUWcq_WelUGl5zhzev-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-69" value="デジタルノート" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="370" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=0;endSize=7.0248275862068965;strokeWidth=3;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="380" as="sourcePoint" />
+            <mxPoint x="1080" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-71" value="クラブ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-72" value="集団識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-71">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-73" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-71">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZUWcq_WelUGl5zhzev-74" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" vertex="1" parent="OaZUWcq_WelUGl5zhzev-71">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
