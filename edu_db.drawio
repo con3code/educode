@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2022-09-07T15:11:47.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="1RpycRFwdL8MCsejwGqC" version="20.2.8" type="github">
+  <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
+    <mxGraphModel dx="526" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-1" value="授業" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="150" y="250" width="160" height="426" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-2" value="授業シリアル" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-3" value="日付" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-4" value="時間割コード" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="86" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-5" value="学校コード" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="120" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-13" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="154" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-12" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="188" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-11" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="222" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-10" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="256" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-9" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="290" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="324" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-7" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="358" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-6" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="937iQ2gGSX9IhuSpnDY0-1" vertex="1">
+          <mxGeometry y="392" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-14" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="450" y="610" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="937iQ2gGSX9IhuSpnDY0-15" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="937iQ2gGSX9IhuSpnDY0-14" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
