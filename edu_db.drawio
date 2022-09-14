@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T00:44:54.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="DFupXRoQqkCLpbW3Gorc" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T00:45:32.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="PFT7flquIuPw4W_mLB5n" version="20.3.0" type="github">
   <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
     <mxGraphModel dx="1592" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="OaZUWcq_WelUGl5zhzev-72" value="活動識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" parent="OaZUWcq_WelUGl5zhzev-71" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OaZUWcq_WelUGl5zhzev-73" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" parent="OaZUWcq_WelUGl5zhzev-71" vertex="1">
+        <mxCell id="OaZUWcq_WelUGl5zhzev-73" value="活動形式" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" parent="OaZUWcq_WelUGl5zhzev-71" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-74" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" parent="OaZUWcq_WelUGl5zhzev-71" vertex="1">
