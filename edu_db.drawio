@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T00:47:20.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="EiEgXQgv_rGqvVKmXvzD" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T00:49:04.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="caVot9KaiWZ22mkr4Aua" version="20.3.0" type="github">
   <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
     <mxGraphModel dx="1592" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,11 +429,11 @@
         <mxCell id="31BuxBrJje0oFWG_Z4OH-76" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-73">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="31BuxBrJje0oFWG_Z4OH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31BuxBrJje0oFWG_Z4OH-20" target="OaZUWcq_WelUGl5zhzev-57">
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="31BuxBrJje0oFWG_Z4OH-33" target="OaZUWcq_WelUGl5zhzev-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="1035" />
-              <mxPoint x="970" y="1140" />
+              <mxPoint x="1240" y="1035" />
+              <mxPoint x="1240" y="1140" />
               <mxPoint x="540" y="1140" />
               <mxPoint x="540" y="1001" />
             </Array>
