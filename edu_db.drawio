@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T00:49:04.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="caVot9KaiWZ22mkr4Aua" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T00:49:33.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="reJl8gFGBDz_tGMzCr0E" version="20.3.0" type="github">
   <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
     <mxGraphModel dx="1592" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31BuxBrJje0oFWG_Z4OH-22" value="学習指導要領識別子" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-20">
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-22" value="科目識別子" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-20">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
