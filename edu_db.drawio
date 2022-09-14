@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T00:58:34.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="j0-JWagfQVaTY0eu1mM8" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T01:00:37.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="ajR9E-bDeNEwfo0v-zY9" version="20.3.0" type="github">
   <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
     <mxGraphModel dx="1592" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,12 +418,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-73" value="成績管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="570" y="260" width="160" height="116" as="geometry" />
+          <mxGeometry x="1480" y="90" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-74" value="成績管理識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-73">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="31BuxBrJje0oFWG_Z4OH-75" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-73">
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-75" value="個別成績識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-73">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-76" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-73">
@@ -449,6 +449,24 @@
           <mxGeometry y="30" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OaZUWcq_WelUGl5zhzev-73" target="31BuxBrJje0oFWG_Z4OH-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-84" value="個別成績" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="190" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-85" value="個別成績識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-84">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-86" value="児童生徒識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-84">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-87" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-84">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31BuxBrJje0oFWG_Z4OH-75" target="31BuxBrJje0oFWG_Z4OH-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OaZUWcq_WelUGl5zhzev-12" target="31BuxBrJje0oFWG_Z4OH-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
