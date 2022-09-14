@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T01:04:19.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="9hkt3uaYxVRgcVq86LCk" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T01:04:39.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="6rxkqty8-K9UPUERA0Ea" version="20.3.0" type="github">
   <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
     <mxGraphModel dx="1592" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="31BuxBrJje0oFWG_Z4OH-90" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="780" y="316" width="230" height="410" as="geometry" />
+          <mxGeometry x="770" y="316" width="240" height="410" as="geometry" />
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="770" y="50" width="680" height="300" as="geometry" />
@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-71" value="活動" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="550" width="160" height="176" as="geometry" />
+          <mxGeometry x="350" y="550" width="160" height="176" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-72" value="活動識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeWidth=3;" parent="OaZUWcq_WelUGl5zhzev-71" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -452,7 +452,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-81" value="活動形式" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;opacity=50;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="600" y="630" width="160" height="230" as="geometry" />
+          <mxGeometry x="560" y="630" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-82" value="+授業&#xa;+試験&#xa;+行事&#xa;+課外&#xa;+クラブ活動&#xa;+家庭学習&#xa;+ボランティア" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;opacity=50;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-81">
           <mxGeometry y="30" width="160" height="200" as="geometry" />
