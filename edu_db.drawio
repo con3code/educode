@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T23:18:48.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="RIeMrxqHyzHYx8kRi48t" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T00:30:11.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="kxPZD8xZMrYx2owCJ6ma" version="20.3.0" type="github">
   <diagram id="XsylWkH_Sm-i_WOEch05" name="ページ1">
     <mxGraphModel dx="1592" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="770" y="50" width="420" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="937iQ2gGSX9IhuSpnDY0-1" value="教育活動枠" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="140" y="370" width="160" height="386" as="geometry" />
         </mxCell>
@@ -76,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-11" value="児童生徒主体情報" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="810" y="300" width="160" height="116" as="geometry" />
+          <mxGeometry x="900" y="210" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-12" value="児童生徒識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="OaZUWcq_WelUGl5zhzev-11" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -88,7 +91,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-16" value="教職員主体情報" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="660" y="100" width="160" height="116" as="geometry" />
+          <mxGeometry x="870" y="70" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="OaZUWcq_WelUGl5zhzev-17" value="教職員識別子" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="OaZUWcq_WelUGl5zhzev-16" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -362,6 +365,9 @@
         </mxCell>
         <mxCell id="31BuxBrJje0oFWG_Z4OH-52" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="31BuxBrJje0oFWG_Z4OH-44">
           <mxGeometry y="236" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31BuxBrJje0oFWG_Z4OH-54" value="個人情報扱い" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="23" width="140" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
